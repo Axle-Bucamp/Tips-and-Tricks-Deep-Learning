@@ -1,5 +1,8 @@
 # 🧠 AI Engineering & Research Toolkit: Roadmap & Tooling Guide
 
+[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link)
+
+
 ## 📌 Overview
 This document serves as a practical and comprehensive guide for anyone diving into AI engineering or research. It covers state-of-the-art techniques, tools, infrastructure considerations, and a learning roadmap, making it ideal for both beginners and advanced practitioners.
 
